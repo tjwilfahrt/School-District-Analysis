@@ -7,14 +7,14 @@ student_data_df.loc[(student_data_df["reading_score"] >= 70) & (student_data_df[
 student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"), "reading_score"] = np.nan
 student_data_df
 
-![Screen Shot 2021-10-17 at 10 24 18 AM](https://user-images.githubusercontent.com/90878939/137647193-4c2ebdb0-88d8-40f1-a4df-bb3b17898d9f.png)
+![Screen Shot 2021-10-17 at 5 51 40 PM](https://user-images.githubusercontent.com/90878939/137647816-fb2dd5f7-3cfd-42c7-9fd6-b23b38829879.png)
 
 ### Refactor the code in Step 2 to replace the math scores with NaN.
 
 student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"), "math_score"] = np.nan
 student_data_df
 
-![Screen Shot 2021-10-17 at 5 30 59 PM](https://user-images.githubusercontent.com/90878939/137647237-c16197bf-7dca-4613-b4d3-24cd18929557.png)
+![Screen Shot 2021-10-17 at 5 51 50 PM](https://user-images.githubusercontent.com/90878939/137647820-b48b9e9c-290b-4ad4-926b-5997e8ae6e7b.png)
 
 ### Check the student data for NaN's. 
 student_data_df.tail(10)
