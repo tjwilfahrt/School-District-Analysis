@@ -5,6 +5,7 @@
 student_data_df.loc[(student_data_df["reading_score"] >= 70) & (student_data_df["math_score"] >= 70)]
 
 student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"), "reading_score"] = np.nan
+
 student_data_df
 
 ![Screen Shot 2021-10-17 at 5 51 40 PM](https://user-images.githubusercontent.com/90878939/137647816-fb2dd5f7-3cfd-42c7-9fd6-b23b38829879.png)
