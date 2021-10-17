@@ -8,7 +8,7 @@ student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (
 
 student_data_df
 
-![Screen Shot 2021-10-17 at 5 51 40 PM](https://user-images.githubusercontent.com/90878939/137647816-fb2dd5f7-3cfd-42c7-9fd6-b23b38829879.png)
+  ![Screen Shot 2021-10-17 at 5 51 40 PM](https://user-images.githubusercontent.com/90878939/137647816-fb2dd5f7-3cfd-42c7-9fd6-b23b38829879.png)
 
 #### Refactor the code in Step 2 to replace the math scores with NaN (code and output included).
 
@@ -16,12 +16,12 @@ student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (
 
 student_data_df
 
-![Screen Shot 2021-10-17 at 5 51 50 PM](https://user-images.githubusercontent.com/90878939/137647820-b48b9e9c-290b-4ad4-926b-5997e8ae6e7b.png)
+  ![Screen Shot 2021-10-17 at 5 51 50 PM](https://user-images.githubusercontent.com/90878939/137647820-b48b9e9c-290b-4ad4-926b-5997e8ae6e7b.png)
 
 #### Check the student data for NaN's (code and output included). 
 student_data_df.tail(10)
 
-![Screen Shot 2021-10-17 at 5 31 43 PM](https://user-images.githubusercontent.com/90878939/137647260-ecc31a7b-49eb-4af7-b39f-05c011f9bcfd.png)
+  ![Screen Shot 2021-10-17 at 5 31 43 PM](https://user-images.githubusercontent.com/90878939/137647260-ecc31a7b-49eb-4af7-b39f-05c011f9bcfd.png)
 
 
 
