@@ -1,6 +1,6 @@
 # School-District-Analysis
 
-## Overview of the school district analysis: Our client, Maria, is responsible for collecting and analyzing all standardized testing data to track and report out performance trends and patterns for local school systems. Presenting this data in a format that can drive strategic decision-making and financial planning is of the utmost importance.  Maria has asked us to help her wrangle testing results for her to present to the schools boards. I’ve demonstrated manipulation and analysis of data using Jupyter Notebook and Pandas library. With Jupyter Notebook, I read raw csv data, cleaned, inspected, merged, and performed analysis to create valuable synthesis of standardized testing data. Pandas library is an effective platform for data wrangling.
+## Overview of the school district analysis: Our client, Maria, is responsible for collecting and analyzing all standardized testing data to track and report out performance trends and patterns for local schools. Presenting this data in a format that can drive strategic decision-making and financial planning is of the utmost importance.  Maria has asked us to help her wrangle testing results for her to present to the schools board. I’ve demonstrated manipulation and analysis of data using Jupyter Notebook and Pandas library. With Jupyter Notebook, I read raw csv data, cleaned, inspected, merged, and performed analysis to create valuable synthesis of standardized testing data. Pandas library is an effective platform for data wrangling.
 
 ## Challenge 1 - Replace Ninth-Grade Reading and Math Scores using 'loc' method
 #### Use loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High Schooland replace them with NaN (code and output included).
@@ -29,7 +29,7 @@ student_data_df.tail(10)
 ## Challenge 2 - School District Analysis (code included in PyCitySchools_Challenge file)
 
 #### District summary dataframe
-  ![Screen Shot 2021-10-17 at 5 33 39 PM](https://user-images.githubusercontent.com/90878939/137647317-8593a442-4db7-4292-9d05-a7b78d83b37d.png)
+  ![Screen Shot 2021-10-17 at 6 26 47 PM](https://user-images.githubusercontent.com/90878939/137648873-90b533cc-984d-4e2b-930f-a3841ce1027a.png)
 
 #### School summary dataframe
   ![Screen Shot 2021-10-17 at 5 34 25 PM](https://user-images.githubusercontent.com/90878939/137647338-2a72ca88-f7f8-4cd9-81f7-4117c7275e17.png)
