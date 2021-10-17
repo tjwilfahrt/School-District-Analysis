@@ -27,10 +27,10 @@ student_data_df.tail(10)
 
 ## Challenge 2 - School District Analysis (code included in PyCitySchools_Challenge file)
 
-#### District summary dataFrame
+#### District summary dataframe
   ![Screen Shot 2021-10-17 at 5 33 39 PM](https://user-images.githubusercontent.com/90878939/137647317-8593a442-4db7-4292-9d05-a7b78d83b37d.png)
 
-#### School summary dataFrame
+#### School summary dataframe
   ![Screen Shot 2021-10-17 at 5 34 25 PM](https://user-images.githubusercontent.com/90878939/137647338-2a72ca88-f7f8-4cd9-81f7-4117c7275e17.png)
 
 #### Top 5 performing schools, based on the overall passing rate
