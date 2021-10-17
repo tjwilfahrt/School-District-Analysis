@@ -1,8 +1,6 @@
 # School-District-Analysis
 
-## Overview of the school district analysis: Our client, Maria, is responsible for collecting and analyzing all standardized testing data to track and report out performance trends and patterns for local school systems. Presenting this data in a format that can drive strategic decision-making and financial planning is of the utmost importance.  Maria has asked us to help her wrangle testing results for her to present to the schools boards.
-
-## I’ll be demonstrating manipulation and analysis of data using Jupyter Notebook and Pandas library. With Jupyter Notebook, I read raw csv data, cleaned, inspected, merged, and performed analysis to create valuable synthesis of standardized testing data. Pandas library is an effective platform for data wrangling.
+## Overview of the school district analysis: Our client, Maria, is responsible for collecting and analyzing all standardized testing data to track and report out performance trends and patterns for local school systems. Presenting this data in a format that can drive strategic decision-making and financial planning is of the utmost importance.  Maria has asked us to help her wrangle testing results for her to present to the schools boards. I’ve demonstrated manipulation and analysis of data using Jupyter Notebook and Pandas library. With Jupyter Notebook, I read raw csv data, cleaned, inspected, merged, and performed analysis to create valuable synthesis of standardized testing data. Pandas library is an effective platform for data wrangling.
 
 ## Challenge 1 - Replace Ninth-Grade Reading and Math Scores using 'loc' method
 #### Use loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High Schooland replace them with NaN (code and output included).
