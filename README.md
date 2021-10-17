@@ -30,6 +30,8 @@ student_data_df.tail(10)
 
 #### District summary dataframe
   ![Screen Shot 2021-10-17 at 6 26 47 PM](https://user-images.githubusercontent.com/90878939/137648873-90b533cc-984d-4e2b-930f-a3841ce1027a.png)
+  
+  Removing Thomas High School (THS) 9th Grade testing scores only marginally affected district summary results. Rounding both tables to the nearest integer results yields consistent results.
 
 #### School summary dataframe
   ![Screen Shot 2021-10-17 at 5 34 25 PM](https://user-images.githubusercontent.com/90878939/137647338-2a72ca88-f7f8-4cd9-81f7-4117c7275e17.png)
