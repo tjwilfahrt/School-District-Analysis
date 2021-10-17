@@ -26,8 +26,6 @@ student_data_df.tail(10)
 
   ![Screen Shot 2021-10-17 at 5 31 43 PM](https://user-images.githubusercontent.com/90878939/137647260-ecc31a7b-49eb-4af7-b39f-05c011f9bcfd.png)
 
-#
-
 ## Challenge 2 - School District Analysis (code included in PyCitySchools_Challenge file)
 
 #### District summary dataframe
