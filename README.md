@@ -35,6 +35,8 @@ student_data_df.tail(10)
 
 #### School summary dataframe
   ![Screen Shot 2021-10-17 at 5 34 25 PM](https://user-images.githubusercontent.com/90878939/137647338-2a72ca88-f7f8-4cd9-81f7-4117c7275e17.png)
+  
+  Removing Thomas High School (THS) 9th Grade testing scores did not effect school summary results. My initial analysis and deliverables for Challenge 4, section 2 yielded the same results.
 
 #### Top 5 performing schools, based on the overall passing rate
   ![Screen Shot 2021-10-17 at 5 38 46 PM](https://user-images.githubusercontent.com/90878939/137647454-07e93a2a-9bcb-40fb-a605-9145988eeef5.png)
@@ -47,6 +49,8 @@ student_data_df.tail(10)
 
 #### Average reading score for each grade level from each school
   ![Screen Shot 2021-10-17 at 5 40 54 PM](https://user-images.githubusercontent.com/90878939/137647527-84c3ab37-80f7-48c8-b7ce-77e5df6b7502.png)
+  
+  Replacing THS 9th Grade scores did not changed results from our online exercise and Challenge exercise. THS results also remained comparable to other high schools in the district. 
 
 #### Scores by school spending per student
   ![Screen Shot 2021-10-17 at 5 42 09 PM](https://user-images.githubusercontent.com/90878939/137647573-4b0223b7-6190-4141-be07-45162d13c648.png)
@@ -62,3 +66,5 @@ student_data_df.tail(10)
 
 #### Average scores by school type
   ![Screen Shot 2021-10-17 at 5 48 58 PM](https://user-images.githubusercontent.com/90878939/137647753-0e451094-8d06-4d46-8723-a6d4961db3f2.png)
+
+## Summary: Replacing THS reading and math scores with "NaNs" did not effect either the % Passing Math, % Passing Reading, or % Overall Passing data. It's clear that Large schools have a far less % Overall Passing results that Small and Medium schools. Charter schools also perform quite well compared to District schools. Schools that receive less funding per student perform substantially better than schools who spend 8-10% more on students. It's important to note that with each incremental increase in student spending % Overall Passing between 10 - 25%. Average math scores appear to be affecting Overall results the most. 
